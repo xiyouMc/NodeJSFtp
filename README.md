@@ -18,7 +18,7 @@
 
 
 ```
-Move Yours File to this fold of 'root',will you can visit ftp.
+Move Yours File to the "root" folder,you will  can visit ftp.
 ```
 
 ##Run
